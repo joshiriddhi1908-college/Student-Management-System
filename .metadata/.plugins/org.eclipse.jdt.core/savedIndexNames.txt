@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Joshi Riddhi\Downloads\StudentMangementSystem1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+290859283.index
+704616732.index
